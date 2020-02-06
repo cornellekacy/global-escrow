@@ -50,7 +50,7 @@
 						<div class="row">
 							<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 								<strong class=""><a href="index-2.html"><img src="images/escrowlogo.png" height="100" width="300" alt="company logo here"></a></strong>
-
+								
 								<div class="wt-rightarea">
 									<nav id="wt-nav" class="wt-nav navbar-expand-lg">
 										<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -82,7 +82,7 @@
 											<img src="images/user-login.png" alt="img description">
 										</figure>
 										
-										<a href="register.html" class="wt-btn">Start Escrow Transaction</a>
+										<a href="newescrow.php" class="wt-btn">Start Escrow Transaction</a>
 									</div>
 								
 								</div>

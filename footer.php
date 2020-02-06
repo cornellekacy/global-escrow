@@ -58,7 +58,7 @@
 									<span><a href="javascript:void(0);">New @ Global Escrow Servies?</a> </span>
 								</div>
 								<div class="wt-fbtnarea">
-									<a href="javascript:void(0)" class="wt-btn">Start New Escrow Transaction</a>
+									<a href="newescrow.php" class="wt-btn">Start New Escrow Transaction</a>
 								</div>
 							</div>
 						</div>

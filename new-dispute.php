@@ -6,10 +6,10 @@
 					<div class="row justify-content-md-center">
 						<div class="col-xs-12 col-sm-12 col-md-8 push-md-2 col-lg-6 push-lg-3">
 							<div class="wt-innerbannercontent">
-							<div class="wt-title"><h2>Get In-touch</h2></div>
+							<div class="wt-title"><h2>New Dispute</h2></div>
 							<ol class="wt-breadcrumb">
 								<li><a href="index-2.html">Home</a></li>
-								<li class="wt-active">Contact Us</li>
+								<li class="wt-active">New Dispute</li>
 							</ol>
 							</div>
 						</div>
@@ -31,18 +31,20 @@
 												<div class="wt-greetingcontent">
 													<div class="wt-sectionhead">
 														<div class="wt-sectiontitle">
-															<h2>Contact Us</h2>
-														
-														</div>
-														<div class="wt-description">
-															<p>Global escrow service is out for its customers, we are the best middle man for you. No matter what you are buying online, we got you covered.
-															</p>
-															<p>Email: support@global-escrow-services.com</p>
-															<p>Or you can get to us directly on the live chat and we will be happy to help you out</p>
+															<h2>Open New Dispute</h2>
 															
 														</div>
+														<div class="wt-description">
+															<p align="center"><b>THE DISPUTE HAS BEEN STARTED!</b></p>
+															<p>
+Your dispute has been started ! An administrator will join in the dispute in few hours.</p>
+<p>
+When the admin will approve your dispute all funds will be send back and an comment section will appear on escrow page.</p>
+
+<p>Send us am email to <b>support@global-escrow-services.com</b> with your Escrow tracking number so that we can attend to you faster</p>
+														</div>
 													</div>
-												
+													
 												</div>
 											</div>
 											
@@ -52,32 +54,7 @@
 							</div>
 						</div>
 					</section>
-					<!--Greetings & Welcome End-->
-					<!--Signup Start-->
-					<section class="wt-haslayout">
-						<div class="container">
-							<div class="row">
-								<div class="col-12 col-sm-12 col-md-12 col-lg-12">
-									<div class="wt-signupholder">
-										<div class="col-12 col-sm-12 col-md-12 col-lg-6 pull-right">
-											<div class="wt-signupcontent">
-												<div class="wt-title">
-													<h2>Global Escrow Services</h2>
-												</div>
-												<div class="wt-description">
-													<p>You can start a new escrow transaction and let us take care of you online transaction</p>
-												</div>
-												<div class="wt-btnarea">
-													<a href="newescrow.php" class="wt-btn wt-btnvtwo">Start Escrow Transaction</a>
-											
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</section>
+			
 
 		
 					<!--Our Team End-->

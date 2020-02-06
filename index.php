@@ -23,14 +23,14 @@
 										<p>Global escrow services is one of the best and cheapest escrow service provider on the internet. We are here to help you on your transactions online</p>
 									</div>
 								</div>
-								<form class="wt-formtheme wt-formbanner" method="post">
+								<form class="wt-formtheme wt-formbanner" action="escrow-success.php" method="post">
 									<fieldset>
 										<div class="form-group">
-											<input type="text" name="fullname" class="form-control" placeholder="Check your Transactions Status">
+											<input type="text"  name="term"  class="form-control" placeholder="Escrow Track Code">
 											
 												
 											
-												<button class="wt-btn">Check Status</button>
+												<button class="wt-btn" type="submit" name="save">Check Status</button>
 											
 										</div>
 									</fieldset>

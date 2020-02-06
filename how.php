@@ -75,7 +75,7 @@
 													<p>You can start a new escrow transaction and let us take care of you online transaction</p>
 												</div>
 												<div class="wt-btnarea">
-													<a href="javascript:void(0);" class="wt-btn wt-btnvtwo">Start Escrow Transaction</a>
+													<a href="newescrow.php" class="wt-btn wt-btnvtwo">Start Escrow Transaction</a>
 											
 												</div>
 											</div>
