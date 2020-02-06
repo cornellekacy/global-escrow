@@ -6,6 +6,18 @@
 								<div class="wt-footerlogohold">
 									
 									<div class="wt-description">
+											<form class="wt-formtheme wt-formbanner" action="escrow-success.php" method="post">
+									<fieldset>
+										<div class="form-group">
+											<input type="text"  name="term"  class="form-control" placeholder="Escrow Track Code">
+											
+												
+											
+												<button class="wt-btn" type="submit" name="save">Check Status</button>
+											
+										</div>
+									</fieldset>
+								</form>
 										<p>Global escrow service is a financial arrangement where a third party holds and regulates the payment of the funds required for two parties involved in a given transaction. It helps make transactions more secure by keeping the payment in a secure escrow account which is only released when all of the terms of an agreement are met as overseen by the escrow company. <a href="about.php">more...</a></p>
 									</div>
 									<ul class="wt-socialiconssimple wt-socialiconfooter">
